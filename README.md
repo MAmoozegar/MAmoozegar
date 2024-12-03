@@ -5,6 +5,7 @@
 - [Education](#education)
 - [Research Experience](#research-experience)
 - [Publications](#publications)
+- [Industrial Projects (English)] (#Industrial Projects (English))
 - [Teaching Experience](#teaching-experience)
 - [Student Supervision](#student-supervision)
 - [Executive and Technical Experience](#executive-and-technical-experience)
