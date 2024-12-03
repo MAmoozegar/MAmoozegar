@@ -83,6 +83,32 @@ Conference Papers (Persian)
 ارائه راهکار دو مرحله اي جهت شناسايي الگوهاي مصرف برق
 کیفیت و بهره وری در صنعت برق ايران
 نویسنده: مریم آموزگار
+## Industrial Projects
+
+### Industrial Projects (English)
+
+| Project Title | Executors and Collaborators |
+|--------------|------------------------------|
+| Targeted Testing and Inspection of Measuring Devices using Artificial Intelligence Techniques at South Kerman Province Electricity Distribution Company | Maryam Amoozegar |
+| Providing a Data Governance Framework and Identifying Data-Driven Processes at South Kerman Province Electricity Distribution Company | Maryam Amoozegar |
+| Implementing Data Mining and Data Engineering Projects with Identification, Analysis, and Monitoring of Data in Operational Areas of Distribution Company | Maryam Amoozegar |
+| Analysis and Segmentation of ADSL Customers and Small-Medium Enterprises in Kerman Province (Contract with Provincial Telecommunications Company) | Maryam Amoozegar, Shahrzad Golestani |
+| Identifying Unusual Patterns in Subscriber Software Data (Contract with South Kerman Province Electricity Distribution Company) | Maryam Amoozegar |
+| Comparing Artificial Neural Network, Fuzzy Logic, Neuro-Fuzzy, and Linear Regression Methods in Sediment Modeling for Halil River Watershed | Sedigheh Mohammadi, Masoud Beheshti Rad, Alijan Abkar, Maryam Amoozegar |
+| Gene Selection in High-Dimensional Microarray Data for Cancer Classification Using Machine Learning Techniques | Esmat Rashedi, Mohammad Mehdi Yaghubi, Maryam Amoozegar |
+
+### پروژه‌های صنعتی (فارسی)
+
+| عنوان طرح | مجریان و همکاران |
+|-----------|-------------------|
+| تست و بازرسي هدفمند لوازم اندازه گيري و انشعاب بر مبناي تكنيك هاي هوش مصنوعي در شركت توزيع برق جنوب استان كرمان | مریم آموزگار |
+| ارائه چارچوب حاكميت داده و شناسايي فرآيندها و پروژه هاي داده محور در شركت توزيع برق جنوب استان كرمان | مریم آموزگار |
+| ارائه طرح هاي اجرايي داده كاوي و مهندسي داده با شناسايي، تحليل و پايش داده ها در حوزه عملياتي شركت توزيع | مریم آموزگار |
+| تحلیل و بخش بندی مشتریان ADSL و شرکتهای کوچک و متوسط استان کرمان (قرارداد با شرکت مخابرات استان) | مریم آموزگار، شهرزاد گلستانی |
+| تشخيص الگوهاي غير طبيعي در داده هاي نرم افزار امور مشترکين (قرار داد با شرکت توزيع نيروي برق جنوب کرمان) | مریم آموزگار |
+| مقايسه روش هاي شبكه عصبي مصنوعي، منطق فازي، عصبي-فازي و رگرسيوني يك خطي در مدلسازي رسوب معلق حوزه آبخيز هليل رود | صدیقه محمدی، مسعود بهشتی راد، علیجان آبکار، مریم آموزگار |
+| انتخاب ژن در داده هاي بعد بالاي ميكرو آرايه اي براي دسته بندي سرطان به كمك روش هاي يادگيري ماشين | عصمت راشدی، محمدمهدی یعقوبی، مریم آموزگار |
+
 
 | Article Title | Journal and Publication Year | Authors |
 |--------------|------------------------------|---------|
