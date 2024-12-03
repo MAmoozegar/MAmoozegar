@@ -28,8 +28,6 @@
 
 ## Research Experience
 
-### Published Articles in Domestic and International Scientific Journals
-
 
 ## Publications
 
