@@ -29,7 +29,7 @@
 ## Research Experience
 
 ### Published Articles in Domestic and International Scientific Journals
-I'll extract the publications from the provided BibTeX entries and format them in markdown for the GitHub README. Here's the section you can replace in the README:
+
 
 ## Publications
 
@@ -70,6 +70,20 @@ I'll extract the publications from the provided BibTeX entries and format them i
    *Iranian Conference on Intelligent Systems (ICIS)*  
    Authors: M. Amoozegar, E. Rezvannejad
 
+Journal Articles (Persian)
+
+تشخیص برخط و استوار ناهنجاری با استفاده از شبکه عصبی بازگشتی (2023)
+مدل سازی در مهندسی
+نویسندگان: آموزگار، فائزی نیا، مینایی بیدگلی
+بهینه‌سازی خودکار کارایی نرم‌افزار مبتنی بر مدل با استفاده از MOPSO (2011)
+هوش محاسباتی در مهندسی برق
+نویسندگان: آموزگار، افتخاری
+
+Conference Papers (Persian)
+
+ارائه راهکار دو مرحله اي جهت شناسايي الگوهاي مصرف برق
+کیفیت و بهره وری در صنعت برق ايران
+نویسنده: مریم آموزگار
 
 | Article Title | Journal and Publication Year | Authors |
 |--------------|------------------------------|---------|
