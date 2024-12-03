@@ -29,6 +29,47 @@
 ## Research Experience
 
 ### Published Articles in Domestic and International Scientific Journals
+I'll extract the publications from the provided BibTeX entries and format them in markdown for the GitHub README. Here's the section you can replace in the README:
+
+## Publications
+
+### Journal Articles (English)
+1. **Robust and efficient FISTA-based method for moving object detection under background movements** (2024)  
+   *Knowledge-Based Systems*  
+   Authors: M. Amoozegar, M. Akbarizadeh, T. Bouwmans
+   [[Link](https://doi.org/10.1016/j.knosys.2024.111765)]
+
+2. **A Drift-Aware Online Learner for Anomaly Detection from Streaming Data** (2022)  
+   *Computational Intelligence in Electrical Engineering*  
+   Authors: M. Amoozegar, B. Minaei-Bidgoli, H. Fanee, M. Rezghi
+   
+3. **Online and Robust Anomaly Detection using Recurrent Neural Network** (2023)  
+   *Journal of Modeling in Engineering*  
+   Authors: M. Amoozegar, M. Faezinia, B. Minaei-Bidgoli
+   
+4. **Optimizing multi-objective PSO based feature selection method using a feature elitism mechanism** (2018)  
+   *Expert Systems with Applications*  
+   Authors: M. Amoozegar, B. Minaei-Bidgoli
+   [[Link](https://doi.org/10.1016/j.eswa.2018.07.009)]
+
+5. **Extra-adaptive robust online subspace tracker for anomaly detection from streaming networks** (2020)  
+   *Engineering Applications of Artificial Intelligence*  
+   Authors: M. Amoozegar, B. Minaei-Bidgoli, M. Rezghi, H. Fanaee-T
+   [[Link](https://doi.org/10.1016/j.engappai.2020.103741)]
+
+### Conference Papers (English)
+1. **Online vehicle detection using Gated Recurrent Units** (2023)  
+   *International Conference on Artificial Intelligence and Smart Vehicle*  
+   Authors: A. Sedghi, E. Rashedi, M. Amoozegar, F. Afsari
+
+2. **Parameter tuning of GSA using DOE** (2014)  
+   *4th International Conference on Computer and Knowledge Engineering (ICCKE)*  
+   Authors: M. Amoozegar, E. Rashedi
+
+3. **Primer design using gravitational search algorithm** (2014)  
+   *Iranian Conference on Intelligent Systems (ICIS)*  
+   Authors: M. Amoozegar, E. Rezvannejad
+
 
 | Article Title | Journal and Publication Year | Authors |
 |--------------|------------------------------|---------|
