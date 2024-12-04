@@ -186,6 +186,7 @@ Conference Papers (Persian)
 - Collaboration in establishing network and software infrastructure at Kerman Growth Center
 - Involvement in preparing business plans and executive processes for the Growth Center
 - Software programming and software project management experience
+- ## Individual Informationfa
 ** مشخصات فردي**
 مریم آموزگار
 استادیار پژوهشگاه علوم و تکنولوژی پیشرفته و علوم محیطی، دانشگاه تحصیلات تکمیلی صنعتی و فناوری پیشرفته
