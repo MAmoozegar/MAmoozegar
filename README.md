@@ -11,7 +11,7 @@
 - [Executive and Technical Experience](#executive-and-technical-experience)
 
 ## نسخه فارسی رزمه
-- [اطلاعات شخصی](#individual-informationfa)
+- [اطلاعات شخصی](#اطلاعات-شخصی)
 - [Education](#education)
 - [Research Experience](#research-experience)
 - [Publications](#publications)
