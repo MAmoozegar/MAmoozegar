@@ -1,7 +1,17 @@
 # Maryam Amoozegar
 
-## Quick Navigation
+## English Version of My CV
 - [Individual Information](#individual-information)
+- [Education](#education)
+- [Research Experience](#research-experience)
+- [Publications](#publications)
+- [Industrial Projects](#Industrial-Projects)
+- [Teaching Experience](#teaching-experience)
+- [Student Supervision](#student-supervision)
+- [Executive and Technical Experience](#executive-and-technical-experience)
+
+## نسخه فارسی رزمه
+- [اطلاعات شخصی](#individual-informationfa)
 - [Education](#education)
 - [Research Experience](#research-experience)
 - [Publications](#publications)
@@ -176,9 +186,15 @@ Conference Papers (Persian)
 - Collaboration in establishing network and software infrastructure at Kerman Growth Center
 - Involvement in preparing business plans and executive processes for the Growth Center
 - Software programming and software project management experience
+** مشخصات فردي**
+مریم آموزگار
+استادیار پژوهشگاه علوم و تکنولوژی پیشرفته و علوم محیطی، دانشگاه تحصیلات تکمیلی صنعتی و فناوری پیشرفته
+گروه: فناوری اطلاعات و کامپیوتر
+amoozegar@kgut.ac.ir, Amoozegar_m@yahoo.comا
 
 
 ## سوابق اجرایی
+
 •	مدير گروه پژوهشي کامپيوتر و فناوري اطلاعات پژوهشگاه علوم و تکنولوژي پيشرفته و علوم محيطي
 
 •	مدير حوزه فناوري اطلاعات و خدمات رايانه اي دانشگاه تحصيلات تکميلي صنعتي و فناوری پیشرفته 
